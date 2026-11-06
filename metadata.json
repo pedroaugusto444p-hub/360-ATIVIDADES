@@ -1,0 +1,6 @@
+{
+  "name": "Sales Page Deployer",
+  "description": "Deployer e gerenciador de páginas de vendas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
